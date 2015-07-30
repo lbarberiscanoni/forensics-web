@@ -1,0 +1,419 @@
+ROOM C008
+
+Code
+
+Contestant
+
+Speaker Points
+Ses. 1 Ses. 2 Ses.3 Ses.4 TOTAL
+
+AA101
+Bryan Lu
+AB109
+Ross Lindsay
+AH102
+Suliman Ahmad
+AQ104
+Nicholas Frederick
+AT137 Akshay Chandrasekhar
+AT138 Ardavan Ghahramani
+AT139
+Sarina Dodhia
+AT140
+Krut Patel
+AT141
+Abrianna Means
+AT142
+Eric Doan
+AT143
+Krishna Singh
+AT144
+Nona Henderson
+AT145
+Victorio Cabrera
+AU102
+William Hawthorne
+AZ118
+Shane Grogan
+AZ119
+Jinsoo Kim
+AZ120
+Elliot Lin
+AZ121
+Bryce Safrit
+BC108
+Joshua Dunster
+
+Ses. I:
+Ses. II:
+
+5
+5
+7
+5
+11
+12
+6
+9
+8
+4
+5
+2
+5
+3
+4
+6
+5
+5
+3
+
+Presiding Officers:
+A. Ghahramani
+B. Safrit
+Best PO
+
+K. Patel
+Parliamentarian (Both Sessions):
+
+J-1
+J-2
+
+Session I Judges
+S. Gami
+A. Rouse
+
+J-1
+J-2
+
+Session II Judges
+J. Schmauch
+E. Payment
+
+Ses. III:
+Ses. IV:
+
+Presiding Officers
+J. Kim
+K. Patel
+
+J-1
+J-2
+
+Session III Judges
+F. Bufis
+R. Lawson
+
+5
+5
+3
+4
+6
+5
+10
+6
+3
+8
+3
+0
+10
+2
+8
+4
+4
+10
+0
+
+4
+4
+4
+9
+10
+9
+9
+9
+5
+4
+4
+0
+10
+4
+4
+10
+4
+9
+3
+
+12
+14
+6
+13
+13
+6
+13
+15
+14
+10
+15
+0
+15
+17
+5
+12
+6
+6
+6
+
+JUDGE PREFERENCE
+Session 1 Session 2 Session 3
+J-1 J-2 J-1 J-2 J-1 J-2 P
+
+26
+28
+20
+31
+40
+32
+38
+39
+30
+26
+27
+2
+40
+26
+21
+32
+19
+30
+12
+
+7
+4
+8
+5
+1
+9
+3
+9
+9
+9
+9
+9
+2
+9
+9
+6
+9
+9
+9
+
+8
+9
+9
+9
+1
+6
+2
+4
+9
+9
+9
+9
+5
+9
+9
+9
+7
+3
+9
+
+9
+9
+9
+8
+1
+9
+5
+2
+9
+6
+9
+9
+4
+9
+7
+9
+9
+3
+9
+
+4
+9
+9
+9
+5
+8
+1
+3
+9
+9
+9
+9
+2
+9
+9
+7
+9
+6
+9
+
+9
+9
+6
+9
+5
+3
+4
+2
+9
+7
+9
+9
+1
+9
+9
+8
+9
+9
+9
+
+9
+2
+9
+9
+1
+9
+5
+7
+4
+9
+8
+9
+3
+9
+9
+9
+9
+6
+9
+
+School Codes:
+AA
+AB
+AH
+AQ
+AT
+AU
+AZ
+BC
+
+Christ Church Episcopal
+Waccamaw High School
+J. L. Mann High School
+Bishop England High School
+Southside HS - Ctr for I
+Woodmont High School
+Riverside High School
+Mauldin High School
+
+J-1
+J-2
+
+Session IV Judges
+Adams
+Russell-Albach
+
+DGE PREFERENCE
+Total
+Session 4
+J-1 J-2 Ranks Place
+
+ool Codes:
+
+9
+7
+9
+9
+2
+9
+3
+4
+8
+9
+6
+9
+1
+5
+9
+9
+9
+9
+9
+
+9
+9
+9
+6
+8
+9
+4
+1
+2
+9
+3
+9
+5
+9
+9
+7
+9
+9
+9
+
+64
+58
+68
+64
+24
+62
+27
+32
+59
+67
+62
+72
+23
+68
+70
+64
+70
+54
+72
+0
+0
+0
+0
+0
+0
+
+6
+
+2
+3
+4
+
+1
+
+5
+
+

@@ -1,0 +1,4952 @@
+[
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Rashed Abdel-Tawab",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14105971",
+        "merit_date": "09/21/2013",
+        "points": "283",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Imran Adamjee",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14007855",
+        "merit_date": "10/16/2011",
+        "points": "30",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Nikita Anand",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14158253",
+        "merit_date": "11/06/2014",
+        "points": "63",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Ayush Bajaj",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14158266",
+        "merit_date": "10/22/2014",
+        "points": "118",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Sydney Beckwith",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14016047",
+        "merit_date": "11/14/2011",
+        "points": "33",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Joseph Benton",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14045751",
+        "merit_date": "02/25/2012",
+        "points": "48",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Maheen Beram",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14007858",
+        "merit_date": "10/16/2011",
+        "points": "956",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Sooruj Bhatia",
+        "grad": "2018",
+        "degrees": "Special Distinction",
+        "merit_number": "14158823",
+        "merit_date": "10/22/2014",
+        "points": "544",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Unshu Biyani",
+        "grad": "2017",
+        "degrees": "Superior Distinction",
+        "merit_number": "14120083",
+        "merit_date": "10/20/2013",
+        "points": "760",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Jordan Blackwell",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14016048",
+        "merit_date": "11/14/2011",
+        "points": "129",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Jared Boggs",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14158033",
+        "merit_date": "10/22/2014",
+        "points": "325",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Leo Branciforte",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14169596",
+        "merit_date": "11/06/2014",
+        "points": "52",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Joy Bretz",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14158030",
+        "merit_date": "12/27/2014",
+        "points": "67",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Kyrah Brown",
+        "grad": "2016",
+        "degrees": "Special Distinction",
+        "merit_number": "14106539",
+        "merit_date": "10/14/2013",
+        "points": "524",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Taylor Bryson",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14053051",
+        "merit_date": "09/23/2012",
+        "points": "86",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Carolyn Bubanich",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14105974",
+        "merit_date": "09/21/2013",
+        "points": "507",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Manu Budidi",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14105969",
+        "merit_date": "10/14/2013",
+        "points": "641",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Cailey Campbell",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14158035",
+        "merit_date": "11/23/2014",
+        "points": "74",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Brandon Cannon",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14159032",
+        "merit_date": "11/06/2014",
+        "points": "48",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Renisha Castro",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14158032",
+        "merit_date": "11/23/2014",
+        "points": "50",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Stephen H Chen",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14007862",
+        "merit_date": "10/16/2011",
+        "points": "1,200",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Jordan Childs",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14158388",
+        "merit_date": "10/06/2014",
+        "points": "263",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Addison Cox",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14158004",
+        "merit_date": "11/06/2014",
+        "points": "200",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Anne Hunter Cox",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14158041",
+        "merit_date": "11/06/2014",
+        "points": "127",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Sarai Dai",
+        "grad": "2016",
+        "degrees": "Superior Distinction",
+        "merit_number": "14053052",
+        "merit_date": "09/23/2012",
+        "points": "921",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "JD Dawson",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14105977",
+        "merit_date": "11/17/2013",
+        "points": "420",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Karina Desai",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14158254",
+        "merit_date": "11/06/2014",
+        "points": "74",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Hailey Elliott",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14158257",
+        "merit_date": "12/14/2014",
+        "points": "96",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Meghana Epari",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14158264",
+        "merit_date": "11/06/2014",
+        "points": "77",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Carly Farr",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14053064",
+        "merit_date": "11/28/2012",
+        "points": "96",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Neha Fatima",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14158392",
+        "merit_date": "12/27/2014",
+        "points": "74",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Dylan Faulk ",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14175739",
+        "merit_date": "11/06/2014",
+        "points": "75",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Tony Fiedtkou",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14056246",
+        "merit_date": "10/30/2012",
+        "points": "146",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Dan Freeman",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14007865",
+        "merit_date": "10/16/2011",
+        "points": "283",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Michael Gallagher",
+        "grad": "2018",
+        "degrees": "Distinction",
+        "merit_number": "14184568",
+        "merit_date": "12/08/2014",
+        "points": "258",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Dorothy Gheorghiu",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14158034",
+        "merit_date": "01/22/2015",
+        "points": "48",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Philip Gheorghiu",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14169609",
+        "merit_date": "01/22/2015",
+        "points": "72",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Stephanie Gonzalez",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14158265",
+        "merit_date": "10/22/2014",
+        "points": "273",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Neil Gramopadhye",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14158031",
+        "merit_date": "11/10/2014",
+        "points": "232",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Joe Gunst",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14105978",
+        "merit_date": "11/17/2013",
+        "points": "411",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Andrew Hall",
+        "grad": "2016",
+        "degrees": "Superior Distinction",
+        "merit_number": "14056248",
+        "merit_date": "09/23/2012",
+        "points": "872",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Elizabeth Hall",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14158824",
+        "merit_date": "10/22/2014",
+        "points": "150",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Matthew Harrington",
+        "grad": "2016",
+        "degrees": "Premier Distinction",
+        "merit_number": "14053078",
+        "merit_date": "09/23/2012",
+        "points": "2,313",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Evans Harrison",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14053065",
+        "merit_date": "11/28/2012",
+        "points": "96",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Abigail Holland",
+        "grad": "2016",
+        "degrees": "Superior Distinction",
+        "merit_number": "14053063",
+        "merit_date": "10/30/2012",
+        "points": "893",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Stephanie Hong",
+        "grad": "2015",
+        "degrees": "Premier Distinction",
+        "merit_number": "14016279",
+        "merit_date": "10/16/2011",
+        "points": "3,732",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Faith Ingle",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14106542",
+        "merit_date": "11/17/2013",
+        "points": "593",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Eric Kane",
+        "grad": "2018",
+        "degrees": "Distinction",
+        "merit_number": "14158263",
+        "merit_date": "11/06/2014",
+        "points": "262",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Zoe Kane",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14184569",
+        "merit_date": "12/08/2014",
+        "points": "119",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Martina Kaura",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14158393",
+        "merit_date": "11/10/2014",
+        "points": "99",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Seyoung Kim",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14158045",
+        "merit_date": "10/06/2014",
+        "points": "345",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Dara Lazarova",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14045752",
+        "merit_date": "02/25/2012",
+        "points": "752",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Carol Lee",
+        "grad": "2016",
+        "degrees": "Premier Distinction",
+        "merit_number": "14053076",
+        "merit_date": "09/23/2012",
+        "points": "2,548",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Noah Leonard",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14158038",
+        "merit_date": "01/11/2015",
+        "points": "41",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Carolyn Li",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14007870",
+        "merit_date": "10/16/2011",
+        "points": "90",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Cindy Li",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14158043",
+        "merit_date": "10/22/2014",
+        "points": "192",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Elliot X Lin",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14007871",
+        "merit_date": "10/16/2011",
+        "points": "953",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Monique Louw",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14169597",
+        "merit_date": "10/06/2014",
+        "points": "465",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Furman MacIlwinen",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14053053",
+        "merit_date": "11/28/2012",
+        "points": "96",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Neha Mahajan",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14053075",
+        "merit_date": "10/18/2012",
+        "points": "351",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Shivani Mahajan",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14106544",
+        "merit_date": "10/21/2013",
+        "points": "166",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Sanjana Mandilwar",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14158037",
+        "merit_date": "12/08/2014",
+        "points": "157",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Ashley Marler",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14105976",
+        "merit_date": "10/14/2013",
+        "points": "702",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Taylor Marshall",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14016273",
+        "merit_date": "11/14/2011",
+        "points": "29",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Corinne D McGrath",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14007873",
+        "merit_date": "10/16/2011",
+        "points": "208",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Callie McInerney",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14105972",
+        "merit_date": "11/17/2013",
+        "points": "65",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Yasmin Meyer",
+        "grad": "2016",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14053073",
+        "merit_date": "09/23/2012",
+        "points": "1,155",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Kyle Mock",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14045753",
+        "merit_date": "02/25/2012",
+        "points": "48",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Kyle Mook",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14053055",
+        "merit_date": "11/28/2012",
+        "points": "48",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Hansen Mou",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14007874",
+        "merit_date": "11/14/2011",
+        "points": "161",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Tiger Mou",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14053057",
+        "merit_date": "11/12/2012",
+        "points": "72",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Alicia Muller",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14158389",
+        "merit_date": "11/06/2014",
+        "points": "131",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Ian Muller",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14016283",
+        "merit_date": "10/16/2011",
+        "points": "124",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Erin Murphy",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14045754",
+        "merit_date": "02/25/2012",
+        "points": "48",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Karl C Nielsen",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14007876",
+        "merit_date": "10/16/2011",
+        "points": "33",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Koueun Pang",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14053071",
+        "merit_date": "10/18/2012",
+        "points": "686",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Junho Park",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14007877",
+        "merit_date": "11/14/2011",
+        "points": "31",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Nicole Patterson",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14158255",
+        "merit_date": "10/22/2014",
+        "points": "409",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Shelby Peek",
+        "grad": "2016",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14053070",
+        "merit_date": "10/21/2012",
+        "points": "1,212",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Xavier Pickens",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14159033",
+        "merit_date": "11/06/2014",
+        "points": "116",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Devin Remley",
+        "grad": "2017",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14105968",
+        "merit_date": "09/21/2013",
+        "points": "1,286",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Amiya Renavikar",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14105973",
+        "merit_date": "09/21/2013",
+        "points": "167",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Alaina Rogers",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14105975",
+        "merit_date": "11/23/2013",
+        "points": "51",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Brant Safrit",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14158040",
+        "merit_date": "11/06/2014",
+        "points": "129",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Cheyenne Sida",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14106541",
+        "merit_date": "10/14/2013",
+        "points": "299",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Emma Simonis",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14158822",
+        "merit_date": "11/10/2014",
+        "points": "120",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Carter Smith",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14045755",
+        "merit_date": "02/25/2012",
+        "points": "48",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Madeline Stewart",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14053066",
+        "merit_date": "12/11/2012",
+        "points": "231",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Will Tapp",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14188539",
+        "merit_date": "02/08/2015",
+        "points": "93",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Ceylin Ucok",
+        "grad": "2016",
+        "degrees": "Special Distinction",
+        "merit_number": "14056250",
+        "merit_date": "09/23/2012",
+        "points": "646",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Jillian Walton",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14053074",
+        "merit_date": "10/18/2012",
+        "points": "121",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Kelly Wang",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14158039",
+        "merit_date": "11/06/2014",
+        "points": "163",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Lucy Wang",
+        "grad": "2018",
+        "degrees": "Distinction",
+        "merit_number": "14158042",
+        "merit_date": "10/22/2014",
+        "points": "391",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Allison Watts",
+        "grad": "2018",
+        "degrees": "Distinction",
+        "merit_number": "14158014",
+        "merit_date": "10/06/2014",
+        "points": "399",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Margaret E Whiston",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14007879",
+        "merit_date": "10/16/2011",
+        "points": "1,313",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Gabriel D Williams",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14007880",
+        "merit_date": "10/16/2011",
+        "points": "1,443",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Marshall Williams",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14045756",
+        "merit_date": "02/25/2012",
+        "points": "48",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Chanyoung Woo",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14158267",
+        "merit_date": "10/22/2014",
+        "points": "150",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Joshua Woo",
+        "grad": "2018",
+        "degrees": "Distinction",
+        "merit_number": "14158047",
+        "merit_date": "10/22/2014",
+        "points": "309",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Katherine Woo",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14053056",
+        "merit_date": "10/21/2012",
+        "points": "34",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Ahva Zadeh",
+        "grad": "2018",
+        "degrees": "Distinction",
+        "merit_number": "14158821",
+        "merit_date": "10/22/2014",
+        "points": "261",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Javier Zarazua",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14053058",
+        "merit_date": "09/23/2012",
+        "points": "124",
+        "school": "Riverside HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Jacklyn Brooks",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14188368",
+        "merit_date": "11/28/2014",
+        "points": "79",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Josh Casillas",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14191941",
+        "merit_date": "12/15/2014",
+        "points": "258",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Audrey VanLear Chase",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14188372",
+        "merit_date": "11/28/2014",
+        "points": "85",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Andrew P. Clater",
+        "grad": "2016",
+        "degrees": "Superior Distinction",
+        "merit_number": "14078516",
+        "merit_date": "11/30/2012",
+        "points": "850",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Eliot Coss",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14027994",
+        "merit_date": "11/18/2011",
+        "points": "414",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "William DeGroote",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14151323",
+        "merit_date": "03/11/2014",
+        "points": "123",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Lydia Anne Dersch",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14035996",
+        "merit_date": "01/11/2012",
+        "points": "151",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "McKenna Donovan",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14188371",
+        "merit_date": "11/28/2014",
+        "points": "42",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Hudson Gieck",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14136466",
+        "merit_date": "12/11/2013",
+        "points": "116",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Ashley Gillespie",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14144257",
+        "merit_date": "01/27/2014",
+        "points": "143",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Jordan Gillespie",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14027993",
+        "merit_date": "11/18/2011",
+        "points": "281",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Lyndsie Nicole Gray",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14199360",
+        "merit_date": "02/02/2015",
+        "points": "91",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Ranna Harley",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14151067",
+        "merit_date": "03/08/2014",
+        "points": "204",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Carter Henderson",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14127968",
+        "merit_date": "11/08/2013",
+        "points": "265",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Ali Hermetz",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14189760",
+        "merit_date": "12/05/2014",
+        "points": "103",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Grant Hermetz",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14189761",
+        "merit_date": "12/05/2014",
+        "points": "64",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Josiah Hermetz",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14189762",
+        "merit_date": "12/05/2014",
+        "points": "45",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Jennie Hudson",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14127735",
+        "merit_date": "11/07/2013",
+        "points": "480",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Lauren H. Jacquette",
+        "grad": "2016",
+        "degrees": "Superior Distinction",
+        "merit_number": "14074778",
+        "merit_date": "11/14/2012",
+        "points": "810",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Katherine M. Jones",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14201021",
+        "merit_date": "02/09/2015",
+        "points": "103",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Sandeep Kattepogu",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14132614",
+        "merit_date": "11/20/2013",
+        "points": "383",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Cristina Marie Kielmeyer",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14035995",
+        "merit_date": "01/11/2012",
+        "points": "540",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Suk Hyun Kim",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14191939",
+        "merit_date": "12/15/2014",
+        "points": "63",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Chris Koons",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14191940",
+        "merit_date": "12/15/2014",
+        "points": "36",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Hannah Kuzmic",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14196420",
+        "merit_date": "01/18/2015",
+        "points": "72",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "James Kuzmic",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14096437",
+        "merit_date": "03/04/2013",
+        "points": "114",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Stephen Michael Leung",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14076594",
+        "merit_date": "11/20/2012",
+        "points": "865",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Moira Arleen Marley",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14191942",
+        "merit_date": "12/15/2014",
+        "points": "62",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Seren Colleen Marley",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14048301",
+        "merit_date": "03/21/2012",
+        "points": "98",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Carson James McQuaid",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14196421",
+        "merit_date": "01/18/2015",
+        "points": "49",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Ellie Myers",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14135380",
+        "merit_date": "12/06/2013",
+        "points": "346",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Matthew Lloyd Myers",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14136565",
+        "merit_date": "12/11/2013",
+        "points": "94",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Anne Nguyen",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14127733",
+        "merit_date": "11/07/2013",
+        "points": "335",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Emma Pait",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14188859",
+        "merit_date": "12/01/2014",
+        "points": "266",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Ghevont Panosian",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14127736",
+        "merit_date": "11/23/2013",
+        "points": "249",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Richard Petersen",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14031067",
+        "merit_date": "12/06/2011",
+        "points": "539",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Eric Charles Petterson III",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14030170",
+        "merit_date": "11/30/2011",
+        "points": "97",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Daniel Quigley",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14127737",
+        "merit_date": "11/07/2013",
+        "points": "468",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Jana Sanders",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14136950",
+        "merit_date": "12/13/2013",
+        "points": "168",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Jonathan Allen Savoy",
+        "grad": "2015",
+        "degrees": "Premier Distinction",
+        "merit_number": "14025321",
+        "merit_date": "11/09/2011",
+        "points": "1,657",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Brooke Schmidt",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14080823",
+        "merit_date": "12/10/2012",
+        "points": "313",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Elisabeth Scroggins",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14148248",
+        "merit_date": "02/19/2014",
+        "points": "78",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Moriah Smith",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14188369",
+        "merit_date": "11/28/2014",
+        "points": "88",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Anna Katherine Streeter",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14209888",
+        "merit_date": "04/28/2015",
+        "points": "55",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Scott Alexander Thompson",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14189142",
+        "merit_date": "12/03/2014",
+        "points": "52",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Caleb Wang",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14188370",
+        "merit_date": "11/28/2014",
+        "points": "89",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Billy Zhang",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14134627",
+        "merit_date": "12/02/2013",
+        "points": "229",
+        "school": "Bob Jones Academy"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Hamza Ahmed",
+        "grad": "2016",
+        "degrees": "Special Distinction",
+        "merit_number": "14077401",
+        "merit_date": "01/01/2013",
+        "points": "640",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Shashwath Arashinagundi",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120082",
+        "merit_date": "10/20/2013",
+        "points": "352",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Varun Arora",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14010782",
+        "merit_date": "10/13/2011",
+        "points": "561",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Abbas Azmi",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14010748",
+        "merit_date": "10/18/2011",
+        "points": "46",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Daniel Bacheschi",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14206014",
+        "merit_date": "03/11/2015",
+        "points": "84",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Vaibhav Bafna",
+        "grad": "2016",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14077402",
+        "merit_date": "01/01/2013",
+        "points": "1,006",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Nirali Bandaru",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14017338",
+        "merit_date": "11/21/2011",
+        "points": "42",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Kathleen Beaudoin",
+        "grad": "2016",
+        "degrees": "Special Distinction",
+        "merit_number": "14084288",
+        "merit_date": "01/01/2013",
+        "points": "530",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Selen Berkman",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14125873",
+        "merit_date": "02/24/2014",
+        "points": "106",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Bharti Bhanot",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14010781",
+        "merit_date": "10/18/2011",
+        "points": "130",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Nathaniel Boen",
+        "grad": "2016",
+        "degrees": "Special Distinction",
+        "merit_number": "14077388",
+        "merit_date": "11/25/2012",
+        "points": "595",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Mackenzie Borum",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14120085",
+        "merit_date": "01/05/2014",
+        "points": "36",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Rohan Brebion",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14077389",
+        "merit_date": "11/25/2012",
+        "points": "453",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Detron Burdine",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14084282",
+        "merit_date": "01/01/2013",
+        "points": "96",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Mira Carroll",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14084289",
+        "merit_date": "02/25/2013",
+        "points": "385",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Anish Chaluvadi",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14139427",
+        "merit_date": "02/24/2014",
+        "points": "598",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Nikhita Chaubey",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120077",
+        "merit_date": "10/20/2013",
+        "points": "319",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Ellen Chen",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14072079",
+        "merit_date": "01/01/2013",
+        "points": "39",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Cathy Chi",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14120068",
+        "merit_date": "01/05/2014",
+        "points": "213",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Brelin Clay",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14206027",
+        "merit_date": "03/11/2015",
+        "points": "156",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Samyu Comandur",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120076",
+        "merit_date": "10/20/2013",
+        "points": "452",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Neha Diaz",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14077394",
+        "merit_date": "01/01/2013",
+        "points": "111",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Isabelle Doan",
+        "grad": "2016",
+        "degrees": "Superior Distinction",
+        "merit_number": "14072080",
+        "merit_date": "11/06/2012",
+        "points": "784",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Maya Dodhia",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14010761",
+        "merit_date": "09/27/2011",
+        "points": "484",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Shona Felice Fitzer",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14188599",
+        "merit_date": "03/11/2015",
+        "points": "78",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Kathryn Ford",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14206029",
+        "merit_date": "03/11/2015",
+        "points": "55",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Seriana Gamble",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14010774",
+        "merit_date": "10/18/2011",
+        "points": "27",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Devansh Gandhi",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14206015",
+        "merit_date": "03/11/2015",
+        "points": "195",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Sahil Garg",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14077400",
+        "merit_date": "01/01/2013",
+        "points": "324",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Chase Garrett",
+        "grad": "2018",
+        "degrees": "Special Distinction",
+        "merit_number": "14205588",
+        "merit_date": "03/09/2015",
+        "points": "603",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Andrew Goldsmith",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14205598",
+        "merit_date": "03/09/2015",
+        "points": "148",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Leo Gonzalez",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14205622",
+        "merit_date": "03/09/2015",
+        "points": "148",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Varsha Gopal",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120075",
+        "merit_date": "10/20/2013",
+        "points": "441",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Jennifer Gould",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14015599",
+        "merit_date": "11/19/2011",
+        "points": "87",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Mandy Green",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14139428",
+        "merit_date": "01/05/2014",
+        "points": "55",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Ceterria Harris",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14206028",
+        "merit_date": "03/11/2015",
+        "points": "66",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Melody Hong",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14120070",
+        "merit_date": "01/05/2014",
+        "points": "194",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Dylan Hooper",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14010758",
+        "merit_date": "10/14/2011",
+        "points": "1,222",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Chirag Jain",
+        "grad": "2016",
+        "degrees": "Special Distinction",
+        "merit_number": "14077403",
+        "merit_date": "01/01/2013",
+        "points": "543",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Preksha Jain",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14084283",
+        "merit_date": "03/07/2013",
+        "points": "90",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Bhumika Jakkaraddi",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14120079",
+        "merit_date": "01/05/2014",
+        "points": "219",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Kendra Johnson",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14084286",
+        "merit_date": "02/25/2013",
+        "points": "143",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Sangram Kadam",
+        "grad": "2016",
+        "degrees": "Superior Distinction",
+        "merit_number": "14077404",
+        "merit_date": "01/01/2013",
+        "points": "869",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Hasna Karim",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14120084",
+        "merit_date": "10/20/2013",
+        "points": "749",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Jana Kelly",
+        "grad": "2016",
+        "degrees": "Special Distinction",
+        "merit_number": "14149476",
+        "merit_date": "07/13/2014",
+        "points": "660",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Tyler Kelly",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14084284",
+        "merit_date": "01/01/2013",
+        "points": "1,159",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Ankith Khandavalli",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14127510",
+        "merit_date": "01/05/2014",
+        "points": "671",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Teja Kondapalli",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14010746",
+        "merit_date": "09/27/2011",
+        "points": "614",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Ven Kothandarama",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14015598",
+        "merit_date": "11/07/2011",
+        "points": "108",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Tyra Krause-Henderson",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14205658",
+        "merit_date": "03/09/2015",
+        "points": "162",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Katerina Krouglicof",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14077398",
+        "merit_date": "01/01/2013",
+        "points": "285",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Brendon Lee",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14120071",
+        "merit_date": "10/20/2013",
+        "points": "234",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Brianna Lewis",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14150838",
+        "merit_date": "03/06/2014",
+        "points": "186",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Jane Lindberg",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14084285",
+        "merit_date": "02/25/2013",
+        "points": "112",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Ethan Magnuson",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14120081",
+        "merit_date": "10/20/2013",
+        "points": "196",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Aparna Mahendranath",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120073",
+        "merit_date": "01/05/2014",
+        "points": "256",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Ronak Malde",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14174217",
+        "merit_date": "03/09/2015",
+        "points": "189",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Ananya Manian",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14077393",
+        "merit_date": "11/25/2012",
+        "points": "264",
+        "school": "Southside HS"
+    },
+    {
+        "name": "John Martin",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14206138",
+        "merit_date": "03/11/2015",
+        "points": "50",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Aleeza Masood",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120074",
+        "merit_date": "01/05/2014",
+        "points": "283",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Sarim Masood",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14206016",
+        "merit_date": "03/11/2015",
+        "points": "168",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Marshall Mayes",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14010759",
+        "merit_date": "10/14/2011",
+        "points": "492",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Amil Merchant",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14010747",
+        "merit_date": "09/27/2011",
+        "points": "924",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Emily Moffett",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14010776",
+        "merit_date": "10/13/2011",
+        "points": "279",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Giridhar Nanda",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14206017",
+        "merit_date": "03/11/2015",
+        "points": "79",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Feran Naufaldy",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14077396",
+        "merit_date": "01/01/2013",
+        "points": "52",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Sahar Nematollahi",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14010780",
+        "merit_date": "10/14/2011",
+        "points": "203",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Samira Nematollahi",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14077399",
+        "merit_date": "01/01/2013",
+        "points": "261",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Dang Nguyen",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14120069",
+        "merit_date": "01/05/2014",
+        "points": "78",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Jessica Ni",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14206025",
+        "merit_date": "03/11/2015",
+        "points": "148",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Taylor Parrott",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14084294",
+        "merit_date": "02/24/2014",
+        "points": "90",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Max Parsons",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14066532",
+        "merit_date": "11/25/2012",
+        "points": "492",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Anjali Patel",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14010751",
+        "merit_date": "09/27/2011",
+        "points": "1,137",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Rhea Patel",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14010753",
+        "merit_date": "09/27/2011",
+        "points": "429",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Nathan Patnam",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14015597",
+        "merit_date": "10/18/2011",
+        "points": "413",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Melanie Pierre",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14206018",
+        "merit_date": "03/11/2015",
+        "points": "102",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Benjamin Ragan",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14150772",
+        "merit_date": "03/06/2014",
+        "points": "597",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Rahul Raghavan",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14010743",
+        "merit_date": "10/13/2011",
+        "points": "1,379",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Shashaank Rajaraman",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14205579",
+        "merit_date": "03/11/2015",
+        "points": "127",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Delia Rogers",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14077392",
+        "merit_date": "11/25/2012",
+        "points": "369",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Jack Runge",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14094076",
+        "merit_date": "02/18/2013",
+        "points": "166",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Farris Sabir",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14077391",
+        "merit_date": "11/25/2012",
+        "points": "441",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Sabrina Sabir",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14205704",
+        "merit_date": "03/11/2015",
+        "points": "184",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Shreya Sama",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14206020",
+        "merit_date": "03/11/2015",
+        "points": "164",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Vineeth Sama",
+        "grad": "2016",
+        "degrees": "Special Distinction",
+        "merit_number": "14066533",
+        "merit_date": "11/25/2012",
+        "points": "567",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Kendal Samuel",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14205589",
+        "merit_date": "03/09/2015",
+        "points": "435",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Reiney Sanders",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14010765",
+        "merit_date": "11/21/2011",
+        "points": "634",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Prateek Shah",
+        "grad": "2015",
+        "degrees": "Premier Distinction",
+        "merit_number": "14010745",
+        "merit_date": "09/27/2011",
+        "points": "1,612",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Shrina Shah",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14206021",
+        "merit_date": "03/11/2015",
+        "points": "103",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Morgan Shannon",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14084290",
+        "merit_date": "01/01/2013",
+        "points": "132",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Sofia Siddiqui",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14183763",
+        "merit_date": "03/11/2015",
+        "points": "116",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Jada Sullivan",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14010775",
+        "merit_date": "10/13/2011",
+        "points": "42",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Zohra Sultan",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14010752",
+        "merit_date": "09/27/2011",
+        "points": "446",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Vimpy Thaper",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14206022",
+        "merit_date": "03/11/2015",
+        "points": "72",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Daniel Thomas",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14010750",
+        "merit_date": "10/18/2011",
+        "points": "109",
+        "school": "Southside HS"
+    },
+    {
+        "name": "William Thompson",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14010757",
+        "merit_date": "10/14/2011",
+        "points": "1,021",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Kevin Tian",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14120080",
+        "merit_date": "10/20/2013",
+        "points": "529",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Nikhil Vallabhaneni",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120087",
+        "merit_date": "02/24/2014",
+        "points": "408",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Eleanor Weldie",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14036906",
+        "merit_date": "01/23/2012",
+        "points": "51",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Irene Williams",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120078",
+        "merit_date": "10/20/2013",
+        "points": "336",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Jarrett Williams",
+        "grad": "2016",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14084287",
+        "merit_date": "01/01/2013",
+        "points": "1,312",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Rebecca Wu",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14094081",
+        "merit_date": "02/25/2013",
+        "points": "430",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Annabelle Yang",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14120072",
+        "merit_date": "10/20/2013",
+        "points": "352",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Lijing Yao",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14206026",
+        "merit_date": "03/11/2015",
+        "points": "69",
+        "school": "Southside HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Samuel Avarette",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14115961",
+        "merit_date": "10/30/2013",
+        "points": "627",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Mackenzie Confer",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14066266",
+        "merit_date": "11/19/2012",
+        "points": "1,153",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Jonah Ashmore Crosby",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14168364",
+        "merit_date": "11/13/2014",
+        "points": "122",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Coya Darcangelo",
+        "grad": "2017",
+        "degrees": "Special Distinction",
+        "merit_number": "14115965",
+        "merit_date": "11/11/2013",
+        "points": "684",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Declyn Drejza",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14115968",
+        "merit_date": "10/23/2013",
+        "points": "427",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Zachery Georghiou",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14066265",
+        "merit_date": "11/19/2012",
+        "points": "148",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Vincent Giovagnoli",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14066264",
+        "merit_date": "10/23/2012",
+        "points": "376",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Jacob Homan",
+        "grad": "2017",
+        "degrees": "Distinction",
+        "merit_number": "14115966",
+        "merit_date": "10/23/2013",
+        "points": "480",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Amani Huell",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14066263",
+        "merit_date": "10/23/2012",
+        "points": "1,300",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Alexandra Jaouiche",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14115962",
+        "merit_date": "10/23/2013",
+        "points": "243",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Aaron Lampe",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14168354",
+        "merit_date": "10/02/2014",
+        "points": "343",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Victoria Marinoff",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14168362",
+        "merit_date": "11/13/2014",
+        "points": "73",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Sara Ness",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14115960",
+        "merit_date": "11/24/2013",
+        "points": "153",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Michael Zeke Phelan",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14168363",
+        "merit_date": "10/27/2014",
+        "points": "183",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Clayton Register",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14168359",
+        "merit_date": "11/13/2014",
+        "points": "147",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Sydney Clair Register",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14168361",
+        "merit_date": "11/13/2014",
+        "points": "131",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Stephen Russell",
+        "grad": "2018",
+        "degrees": "Excellence",
+        "merit_number": "14168358",
+        "merit_date": "10/02/2014",
+        "points": "231",
+        "school": "Waccamaw HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Daquann Barrett",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14032132",
+        "merit_date": "02/04/2012",
+        "points": "291",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Kayla Baxley",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14025941",
+        "merit_date": "02/04/2012",
+        "points": "49",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Jacob Benton",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14176573",
+        "merit_date": "01/17/2015",
+        "points": "31",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Da'John Broxton",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14111839",
+        "merit_date": "10/25/2014",
+        "points": "36",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Suzie Chavis",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14025935",
+        "merit_date": "02/04/2012",
+        "points": "38",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Dantravia Cuthbertson",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14025934",
+        "merit_date": "12/10/2011",
+        "points": "51",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Andrew Depew",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14025936",
+        "merit_date": "12/10/2011",
+        "points": "62",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Leon Dorch",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14176572",
+        "merit_date": "01/17/2015",
+        "points": "26",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Joshua Everson",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14037858",
+        "merit_date": "10/20/2012",
+        "points": "86",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Kierra Fordham",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056187",
+        "merit_date": "10/27/2012",
+        "points": "25",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Marissa Garrett",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14018602",
+        "merit_date": "10/29/2011",
+        "points": "292",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Zori Green",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14056185",
+        "merit_date": "11/10/2012",
+        "points": "38",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Shadazia Jones",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14025933",
+        "merit_date": "12/10/2011",
+        "points": "244",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Jordan Nix",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14056188",
+        "merit_date": "11/10/2012",
+        "points": "95",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Kurt Odermatt",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14025937",
+        "merit_date": "12/10/2011",
+        "points": "1,123",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Alex Poston",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056189",
+        "merit_date": "09/28/2013",
+        "points": "37",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Lauren Pruitt",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14025939",
+        "merit_date": "11/17/2012",
+        "points": "100",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Kayla Randall",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14009943",
+        "merit_date": "10/15/2011",
+        "points": "133",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Jacob Rhoad",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14072946",
+        "merit_date": "11/17/2012",
+        "points": "49",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Joseph Sanders",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14109338",
+        "merit_date": "09/28/2013",
+        "points": "488",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Victoria Smith-Allen",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14009939",
+        "merit_date": "01/15/2012",
+        "points": "47",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Zhane Snider",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056195",
+        "merit_date": "10/20/2012",
+        "points": "70",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Thomas Stanton",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14025938",
+        "merit_date": "12/10/2011",
+        "points": "449",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Hannah Still",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14072948",
+        "merit_date": "11/17/2012",
+        "points": "253",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Oliver Terry",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14056190",
+        "merit_date": "10/20/2012",
+        "points": "126",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Flynn Valentine",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14072947",
+        "merit_date": "11/17/2012",
+        "points": "204",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Tristian Waddell",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14176574",
+        "merit_date": "11/22/2014",
+        "points": "43",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Sallie Walkup",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14056192",
+        "merit_date": "10/20/2012",
+        "points": "227",
+        "school": "Williston-Elko HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Trent Butler",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14200974",
+        "merit_date": "03/02/2015",
+        "points": "72",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Lauren Dalrymple",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14036966",
+        "merit_date": "11/13/2012",
+        "points": "30",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Emily Fisher",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14036965",
+        "merit_date": "11/13/2012",
+        "points": "72",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Megan Fisher",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14036964",
+        "merit_date": "01/17/2012",
+        "points": "73",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Hannah Fleming",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14036963",
+        "merit_date": "01/17/2012",
+        "points": "162",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Eian Hazzard",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14074049",
+        "merit_date": "02/13/2013",
+        "points": "36",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Alex Hickman",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14036968",
+        "merit_date": "11/13/2012",
+        "points": "27",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Elaine Hollibaugh",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14075648",
+        "merit_date": "02/13/2013",
+        "points": "33",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Trisani Mukhopadhyay",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14192359",
+        "merit_date": "12/17/2014",
+        "points": "52",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Robert Nelson",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14011575",
+        "merit_date": "02/01/2012",
+        "points": "936",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Jenny Reh",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14074045",
+        "merit_date": "11/13/2012",
+        "points": "65",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Ashley Underwood",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14192360",
+        "merit_date": "12/17/2014",
+        "points": "69",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Kristen Weeks",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14074048",
+        "merit_date": "11/18/2012",
+        "points": "63",
+        "school": "Fort Dorchester HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Alexandra Aguirre",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14113261",
+        "merit_date": "10/15/2013",
+        "points": "49",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Grace Allen",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14113267",
+        "merit_date": "10/01/2013",
+        "points": "81",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Daniel Allwurden",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14029812",
+        "merit_date": "12/13/2011",
+        "points": "1,027",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Sean Allwurden",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14029813",
+        "merit_date": "12/13/2011",
+        "points": "796",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Gabrielle Bennon",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14022766",
+        "merit_date": "10/01/2013",
+        "points": "46",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Mayden Blackston",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14178172",
+        "merit_date": "10/29/2014",
+        "points": "91",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Bradley Bohm",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14096354",
+        "merit_date": "10/01/2013",
+        "points": "187",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Jacob Bridges",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14178167",
+        "merit_date": "10/29/2014",
+        "points": "30",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Jordan Brown",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14113223",
+        "merit_date": "10/01/2013",
+        "points": "45",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Nevonne Burrell",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14029596",
+        "merit_date": "11/29/2011",
+        "points": "34",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Foster Burton",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14058875",
+        "merit_date": "11/01/2012",
+        "points": "154",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Cervon Campbell",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14075852",
+        "merit_date": "03/04/2013",
+        "points": "288",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Chris Cummings",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14113270",
+        "merit_date": "10/01/2013",
+        "points": "26",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Adrele Davis",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14058855",
+        "merit_date": "10/01/2012",
+        "points": "176",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Donovan Steven Dawkins",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14178234",
+        "merit_date": "12/18/2014",
+        "points": "28",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Nicholas Delp",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14058858",
+        "merit_date": "10/23/2012",
+        "points": "133",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Caroline DeLuna",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14075850",
+        "merit_date": "10/01/2013",
+        "points": "56",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Aj Undrea\\' Duncan",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14178362",
+        "merit_date": "10/29/2014",
+        "points": "94",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Riley Egbula",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14113264",
+        "merit_date": "10/01/2013",
+        "points": "25",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Jessica Foster",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14096371",
+        "merit_date": "10/01/2013",
+        "points": "510",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Elizabeth Freeman",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14058888",
+        "merit_date": "10/01/2012",
+        "points": "1,039",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Taylor Ann Goldfuss",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14178175",
+        "merit_date": "10/29/2014",
+        "points": "87",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Tanner Hall",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14069893",
+        "merit_date": "11/19/2012",
+        "points": "114",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Ashley Hamada",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14058862",
+        "merit_date": "10/01/2012",
+        "points": "80",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Jacob Haun",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14178158",
+        "merit_date": "10/29/2014",
+        "points": "39",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Steven Andrew Highland",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14178357",
+        "merit_date": "10/29/2014",
+        "points": "49",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Kiana Hopkins",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14058876",
+        "merit_date": "10/23/2012",
+        "points": "104",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Darbi Horne",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14113265",
+        "merit_date": "10/01/2013",
+        "points": "27",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Valerie Inabinet",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14058864",
+        "merit_date": "10/01/2013",
+        "points": "28",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Kyle Jardim",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14058867",
+        "merit_date": "10/01/2012",
+        "points": "168",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Alyssa Jewell",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14113251",
+        "merit_date": "10/01/2013",
+        "points": "95",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Gabrielle Johnson",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058900",
+        "merit_date": "10/23/2012",
+        "points": "40",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Ruber Labib",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14066704",
+        "merit_date": "11/19/2012",
+        "points": "33",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Sam Luby",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14096356",
+        "merit_date": "10/01/2013",
+        "points": "105",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Chad Machado",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14177664",
+        "merit_date": "12/18/2014",
+        "points": "72",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Ryan Miller",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14113224",
+        "merit_date": "10/01/2013",
+        "points": "512",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Uriah Morris",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14022759",
+        "merit_date": "11/29/2011",
+        "points": "26",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Marshall Perkins",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14113271",
+        "merit_date": "10/01/2013",
+        "points": "28",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Youstina Rezkalla",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14022764",
+        "merit_date": "11/28/2011",
+        "points": "91",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Asante Rice",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14113222",
+        "merit_date": "10/01/2013",
+        "points": "106",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Samara Roberts",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14058869",
+        "merit_date": "11/01/2012",
+        "points": "866",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Summer Sandlin",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14113218",
+        "merit_date": "10/01/2013",
+        "points": "80",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Domineek Smith",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14058880",
+        "merit_date": "10/23/2012",
+        "points": "129",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Erica Smoak",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14113273",
+        "merit_date": "10/01/2013",
+        "points": "32",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Marina Sorial",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14022765",
+        "merit_date": "11/28/2011",
+        "points": "351",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Justin Steele",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14113221",
+        "merit_date": "10/01/2013",
+        "points": "381",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Taylor Nicole Strong",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14192393",
+        "merit_date": "05/06/2015",
+        "points": "29",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Mohammed Suleiman",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058929",
+        "merit_date": "11/19/2012",
+        "points": "54",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Ciara Thomas",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14113248",
+        "merit_date": "10/01/2013",
+        "points": "44",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Courtney Vance",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058884",
+        "merit_date": "10/01/2012",
+        "points": "62",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Abigail Wade",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14113252",
+        "merit_date": "10/29/2014",
+        "points": "43",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Matthew Watson",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14029834",
+        "merit_date": "12/13/2011",
+        "points": "92",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Tamaya Williams",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14178408",
+        "merit_date": "04/28/2015",
+        "points": "41",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Jarbari Wingate",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14136353",
+        "merit_date": "10/29/2014",
+        "points": "247",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Craig Yount",
+        "grad": "2015",
+        "degrees": "Outstanding Distinction",
+        "merit_number": "14081015",
+        "merit_date": "12/19/2012",
+        "points": "1,057",
+        "school": "Hillcrest HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "William Bonduris",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14076293",
+        "merit_date": "12/11/2012",
+        "points": "57",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "Noah Dammers",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14069190",
+        "merit_date": "11/19/2012",
+        "points": "40",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "Nicole Fernandes",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14014609",
+        "merit_date": "11/26/2011",
+        "points": "103",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "Kelsey Green",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14014623",
+        "merit_date": "10/17/2011",
+        "points": "122",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "Timothy Harris",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14076257",
+        "merit_date": "12/11/2012",
+        "points": "39",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "James Power",
+        "grad": "2015",
+        "degrees": "Superior Distinction",
+        "merit_number": "14014613",
+        "merit_date": "10/17/2011",
+        "points": "792",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "Riley Reynolds",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14014608",
+        "merit_date": "11/26/2011",
+        "points": "42",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "Erin Streetman",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14128080",
+        "merit_date": "11/09/2013",
+        "points": "31",
+        "school": "J L Mann Academy"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Greenville Technical Charter HS"
+    },
+    {
+        "name": "Omar Abdeladl",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14144075",
+        "merit_date": "02/26/2014",
+        "points": "274",
+        "school": "Greenville Technical Charter HS"
+    },
+    {
+        "name": "Roann Abdeladl",
+        "grad": "2018",
+        "degrees": "Distinction",
+        "merit_number": "14174598",
+        "merit_date": "10/20/2014",
+        "points": "452",
+        "school": "Greenville Technical Charter HS"
+    },
+    {
+        "name": "Maraya Bidjerano",
+        "grad": "2016",
+        "degrees": "Superior Distinction",
+        "merit_number": "14053081",
+        "merit_date": "09/23/2012",
+        "points": "767",
+        "school": "Greenville Technical Charter HS"
+    },
+    {
+        "name": "Sophie Finnell",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14202323",
+        "merit_date": "03/01/2015",
+        "points": "30",
+        "school": "Greenville Technical Charter HS"
+    },
+    {
+        "name": "Hunter Scott Street",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14144073",
+        "merit_date": "01/27/2014",
+        "points": "184",
+        "school": "Greenville Technical Charter HS"
+    },
+    {
+        "name": "Emily Zemitis",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14144074",
+        "merit_date": "02/26/2014",
+        "points": "313",
+        "school": "Greenville Technical Charter HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Kristine Arnau",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14114942",
+        "merit_date": "11/25/2013",
+        "points": "90",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Alivia Blount",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056136",
+        "merit_date": "10/20/2012",
+        "points": "60",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Kathleen Close",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056203",
+        "merit_date": "10/20/2012",
+        "points": "32",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Naomi Czeizinger",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14056138",
+        "merit_date": "10/20/2012",
+        "points": "36",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Luke DeMott",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14009997",
+        "merit_date": "10/09/2011",
+        "points": "416",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Katie Duchinski",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14009995",
+        "merit_date": "10/09/2011",
+        "points": "117",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Michael Dunster",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14063415",
+        "merit_date": "12/08/2012",
+        "points": "158",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Audrey Green",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14056137",
+        "merit_date": "02/13/2013",
+        "points": "49",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Christian Hansen",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14114943",
+        "merit_date": "10/21/2013",
+        "points": "118",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Logan Hyatt",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056140",
+        "merit_date": "12/08/2012",
+        "points": "29",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Alec Knope",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14080565",
+        "merit_date": "01/20/2013",
+        "points": "40",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Anna Little",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056139",
+        "merit_date": "10/20/2012",
+        "points": "36",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Emily Little",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14148038",
+        "merit_date": "02/20/2014",
+        "points": "26",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Heather Madden",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14114941",
+        "merit_date": "11/25/2013",
+        "points": "90",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Kasey Obermeier",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056144",
+        "merit_date": "12/08/2012",
+        "points": "34",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Prince Patel",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14181322",
+        "merit_date": "02/19/2015",
+        "points": "36",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Summer Poniatowski",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14065657",
+        "merit_date": "12/08/2012",
+        "points": "36",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Kayelina Publico",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14114939",
+        "merit_date": "10/21/2013",
+        "points": "40",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Sri Reddy",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14181321",
+        "merit_date": "02/19/2015",
+        "points": "42",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Sydney Shaw",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14065650",
+        "merit_date": "01/20/2013",
+        "points": "47",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Madeline Shumaker",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056143",
+        "merit_date": "12/08/2012",
+        "points": "41",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "August Spencer",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14056142",
+        "merit_date": "10/20/2012",
+        "points": "35",
+        "school": "Mauldin HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Mariama Andrews",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14148428",
+        "merit_date": "02/21/2014",
+        "points": "178",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Phillip Barrett",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14080782",
+        "merit_date": "12/10/2012",
+        "points": "35",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Kennedy Beaty",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14173070",
+        "merit_date": "01/20/2015",
+        "points": "30",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Thomas Birdsong",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14148426",
+        "merit_date": "02/21/2014",
+        "points": "158",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Adam Bott",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14021371",
+        "merit_date": "10/02/2012",
+        "points": "92",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Katherine Boyle",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14077450",
+        "merit_date": "11/26/2012",
+        "points": "158",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Tatianna Bracey",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14196886",
+        "merit_date": "01/20/2015",
+        "points": "38",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Grant Condery",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14077451",
+        "merit_date": "11/26/2012",
+        "points": "28",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Romeer Desai",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14186455",
+        "merit_date": "03/09/2015",
+        "points": "26",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Olivia Dodgins",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14174205",
+        "merit_date": "01/20/2015",
+        "points": "164",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Casey Evans",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14059040",
+        "merit_date": "11/26/2012",
+        "points": "207",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Catherine Galan",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14148621",
+        "merit_date": "02/21/2014",
+        "points": "87",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "William Galan",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14174204",
+        "merit_date": "01/20/2015",
+        "points": "58",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Dezmon Gilbert",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14016183",
+        "merit_date": "01/23/2012",
+        "points": "177",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Jose Gonzalez",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14182852",
+        "merit_date": "01/20/2015",
+        "points": "40",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Hakwon Hawkins",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14148640",
+        "merit_date": "02/21/2014",
+        "points": "154",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Lila Holland",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14173086",
+        "merit_date": "01/20/2015",
+        "points": "129",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Javon Holmes",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14059039",
+        "merit_date": "11/26/2012",
+        "points": "399",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Megan Johnson",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14173087",
+        "merit_date": "01/20/2015",
+        "points": "49",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Nicholas Leonhardt",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14080781",
+        "merit_date": "02/11/2013",
+        "points": "33",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Alessandra Malmquist",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14016181",
+        "merit_date": "02/21/2012",
+        "points": "159",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "William David Logan Mangum",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14194951",
+        "merit_date": "03/09/2015",
+        "points": "30",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Tanner Brooks Matthews",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14116510",
+        "merit_date": "01/20/2015",
+        "points": "61",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Braxton Davis McDuffie",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14116503",
+        "merit_date": "10/21/2013",
+        "points": "111",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Elizabeth Mugo",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14026334",
+        "merit_date": "11/26/2012",
+        "points": "52",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Sawyer Ohrin",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14148422",
+        "merit_date": "02/21/2014",
+        "points": "32",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Jordan Finlay Owen",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14116502",
+        "merit_date": "02/19/2014",
+        "points": "87",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Alondra Palacios",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14010434",
+        "merit_date": "11/14/2011",
+        "points": "27",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Harsh Patel",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14188625",
+        "merit_date": "01/20/2015",
+        "points": "36",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Jamil Pratt",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14077447",
+        "merit_date": "11/26/2012",
+        "points": "87",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Morgan Riegel",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14178937",
+        "merit_date": "01/20/2015",
+        "points": "35",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Logan Stewart",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14173090",
+        "merit_date": "01/20/2015",
+        "points": "30",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Sha'Nequa Stuckey",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14188626",
+        "merit_date": "01/20/2015",
+        "points": "35",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Sarah Patrice Witt",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14175730",
+        "merit_date": "01/20/2015",
+        "points": "39",
+        "school": "Irmo HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Shipra Bethi",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14066964",
+        "merit_date": "12/11/2012",
+        "points": "27",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Sam Erwin",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14167365",
+        "merit_date": "09/30/2014",
+        "points": "144",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Worth Gentry",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14081589",
+        "merit_date": "02/20/2013",
+        "points": "181",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Alex Goldsmith",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14051200",
+        "merit_date": "05/18/2012",
+        "points": "273",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Vidya Gudivada",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14051232",
+        "merit_date": "05/18/2012",
+        "points": "389",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Anni Huang",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14066966",
+        "merit_date": "11/13/2012",
+        "points": "71",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Courtney Lee",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14066967",
+        "merit_date": "12/11/2012",
+        "points": "146",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Mary Wallace Martin",
+        "grad": "2017",
+        "degrees": "Excellence",
+        "merit_number": "14167367",
+        "merit_date": "09/30/2014",
+        "points": "193",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Tatiana Montalvo",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14066965",
+        "merit_date": "12/11/2012",
+        "points": "27",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Jonathan Morse",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14051194",
+        "merit_date": "05/18/2012",
+        "points": "75",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Diana Oxner",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14167363",
+        "merit_date": "11/27/2014",
+        "points": "96",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Seth Snyder",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14167361",
+        "merit_date": "02/13/2015",
+        "points": "27",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Michael Stone",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14066971",
+        "merit_date": "02/13/2015",
+        "points": "31",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Mikaela Towler",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14074577",
+        "merit_date": "02/20/2013",
+        "points": "259",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Chenjie Zhao",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14078503",
+        "merit_date": "12/11/2012",
+        "points": "59",
+        "school": "Christ Church Episcopal School"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Kayla Grainger",
+        "grad": "2015",
+        "degrees": "Special Distinction",
+        "merit_number": "14031732",
+        "merit_date": "12/10/2011",
+        "points": "589",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Ethan Marker",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14072982",
+        "merit_date": "02/08/2013",
+        "points": "35",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Anna Marquardt",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14123830",
+        "merit_date": "10/28/2013",
+        "points": "27",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Victoria Metts",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14072806",
+        "merit_date": "02/08/2013",
+        "points": "123",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Matthew Mood",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14031731",
+        "merit_date": "12/08/2011",
+        "points": "349",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Yaicha Ocampo",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14072805",
+        "merit_date": "11/09/2012",
+        "points": "281",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Logan Pastor",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14123833",
+        "merit_date": "10/28/2013",
+        "points": "35",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Timiya Payne",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14072807",
+        "merit_date": "11/10/2012",
+        "points": "54",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Katherine Touchberry",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14123832",
+        "merit_date": "02/26/2014",
+        "points": "150",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Victoria Udochu",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14187374",
+        "merit_date": "11/23/2014",
+        "points": "179",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Brandon White",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14177545",
+        "merit_date": "10/27/2014",
+        "points": "71",
+        "school": "Berkeley HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Matthew Borland",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14007458",
+        "merit_date": "02/23/2012",
+        "points": "312",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Patrick Bulson",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14151359",
+        "merit_date": "03/11/2014",
+        "points": "40",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Faith E. Dalzell",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14149457",
+        "merit_date": "02/26/2014",
+        "points": "40",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Zachary C. Dalzell",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14149458",
+        "merit_date": "02/26/2014",
+        "points": "139",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Olive Gardner",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14150474",
+        "merit_date": "03/04/2014",
+        "points": "51",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Leotie Hakkila",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14008418",
+        "merit_date": "02/26/2014",
+        "points": "60",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Ben Holmes",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14150476",
+        "merit_date": "03/04/2014",
+        "points": "33",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Zack H. Hunter",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14149459",
+        "merit_date": "02/26/2014",
+        "points": "103",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Matthew Martin",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14095635",
+        "merit_date": "02/26/2013",
+        "points": "291",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Vaibhav Mohanty",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14009130",
+        "merit_date": "02/23/2012",
+        "points": "30",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Coleman Richards",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14007460",
+        "merit_date": "02/22/2012",
+        "points": "132",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Haven Wu",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14150479",
+        "merit_date": "03/04/2014",
+        "points": "70",
+        "school": "Academic Magnet HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Naomi Allen",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14073820",
+        "merit_date": "12/17/2012",
+        "points": "133",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Herlie Lerend Chess",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14161764",
+        "merit_date": "05/14/2015",
+        "points": "26",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Tralicia Deloach",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14131841",
+        "merit_date": "02/03/2014",
+        "points": "37",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Myriana Dobson",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14073836",
+        "merit_date": "12/17/2012",
+        "points": "240",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Amber Ferguson",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14169815",
+        "merit_date": "10/30/2014",
+        "points": "105",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Tony- Tresay Allen Goodloe",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14161763",
+        "merit_date": "11/16/2014",
+        "points": "72",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Ambriya Graham",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14073833",
+        "merit_date": "12/17/2012",
+        "points": "146",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "K'Oshjah Adena Hall",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14127317",
+        "merit_date": "11/18/2013",
+        "points": "95",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Jusuf Jenkins",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14018693",
+        "merit_date": "11/17/2011",
+        "points": "232",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Destine Johnson",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14185618",
+        "merit_date": "12/09/2014",
+        "points": "33",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Keshawn Alexander Johnson",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14161758",
+        "merit_date": "12/09/2014",
+        "points": "61",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Shateal K McMillan",
+        "grad": "2018",
+        "degrees": "Honor",
+        "merit_number": "14169817",
+        "merit_date": "10/30/2014",
+        "points": "105",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Henry Paul Monroe",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14161766",
+        "merit_date": "12/09/2014",
+        "points": "37",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Tanaysia Myers",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14136746",
+        "merit_date": "11/16/2014",
+        "points": "63",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Travien Tytion Newton",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14123352",
+        "merit_date": "12/09/2013",
+        "points": "69",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "DeAria Phoenix",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14123353",
+        "merit_date": "12/09/2013",
+        "points": "93",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Savanna Herlene Sauls",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14123351",
+        "merit_date": "12/04/2013",
+        "points": "107",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Kendra Shymiria Smalls",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14123349",
+        "merit_date": "10/06/2014",
+        "points": "63",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Camille Williams",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14136747",
+        "merit_date": "04/25/2014",
+        "points": "53",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Starr Yamaguchi",
+        "grad": "2016",
+        "degrees": "Distinction",
+        "merit_number": "14069067",
+        "merit_date": "11/11/2012",
+        "points": "290",
+        "school": "Allendale-Fairfax HS"
+    },
+    {
+        "name": "Name",
+        "grad": "Grad",
+        "degrees": "Degrees",
+        "merit_number": "Merit #",
+        "merit_date": "Merit Date",
+        "points": "Points",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Moleisa Babb",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14123203",
+        "merit_date": "11/17/2013",
+        "points": "93",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Kendrick Backmon",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14123212",
+        "merit_date": "11/17/2013",
+        "points": "174",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Veronica Beard",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14123198",
+        "merit_date": "11/17/2013",
+        "points": "117",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Amanda Bodiford",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14130998",
+        "merit_date": "12/08/2013",
+        "points": "46",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Jonathan Brown",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14184865",
+        "merit_date": "01/19/2015",
+        "points": "45",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Ashley Bryant",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14074243",
+        "merit_date": "12/10/2012",
+        "points": "109",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Alexis Carrigg",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058439",
+        "merit_date": "12/16/2012",
+        "points": "55",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Dorion Carter",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14123202",
+        "merit_date": "11/17/2013",
+        "points": "83",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Arlivia Cave",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14058441",
+        "merit_date": "12/16/2012",
+        "points": "83",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Erica Coleman",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14080994",
+        "merit_date": "12/16/2012",
+        "points": "40",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Emily Dicks",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14080995",
+        "merit_date": "12/16/2012",
+        "points": "40",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Dean Fleetwood",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14010179",
+        "merit_date": "02/05/2012",
+        "points": "101",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Ayana Gaines",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14058442",
+        "merit_date": "12/16/2012",
+        "points": "212",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Dalia Garcia",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058443",
+        "merit_date": "12/10/2012",
+        "points": "74",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Madison Harper",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14133366",
+        "merit_date": "12/08/2013",
+        "points": "55",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Ray Hinckley",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14131002",
+        "merit_date": "02/02/2014",
+        "points": "33",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Cody Holcombe",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14018926",
+        "merit_date": "02/05/2012",
+        "points": "128",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Shelby Hooper",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14010191",
+        "merit_date": "02/05/2012",
+        "points": "30",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Logan Hutto",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14010182",
+        "merit_date": "02/05/2012",
+        "points": "98",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Katelyn Ingram",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058445",
+        "merit_date": "01/20/2013",
+        "points": "31",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Timesha Jones",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14123204",
+        "merit_date": "11/17/2013",
+        "points": "116",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Chanterra McClain",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14131000",
+        "merit_date": "03/03/2014",
+        "points": "50",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Dixie McCollum",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14010183",
+        "merit_date": "12/11/2011",
+        "points": "44",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Anne McCoy",
+        "grad": "2015",
+        "degrees": "Distinction",
+        "merit_number": "14010198",
+        "merit_date": "10/23/2011",
+        "points": "273",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Destiny Medler",
+        "grad": "2018",
+        "degrees": "Merit",
+        "merit_number": "14184853",
+        "merit_date": "12/07/2014",
+        "points": "39",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Kiah Morris",
+        "grad": "2016",
+        "degrees": "Excellence",
+        "merit_number": "14058435",
+        "merit_date": "12/10/2012",
+        "points": "208",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Chadric Owens",
+        "grad": "2015",
+        "degrees": "Excellence",
+        "merit_number": "14010199",
+        "merit_date": "10/30/2011",
+        "points": "243",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Faith Pennicuff",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058437",
+        "merit_date": "01/20/2013",
+        "points": "30",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Kimani Perlote",
+        "grad": "2017",
+        "degrees": "Honor",
+        "merit_number": "14123208",
+        "merit_date": "11/17/2013",
+        "points": "104",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Thomas Riner",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14010204",
+        "merit_date": "10/30/2011",
+        "points": "27",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Darius Ross",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14080973",
+        "merit_date": "01/20/2013",
+        "points": "107",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Abbigail Sankey",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14074244",
+        "merit_date": "12/10/2012",
+        "points": "136",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Dessie Savage",
+        "grad": "2017",
+        "degrees": "Merit",
+        "merit_number": "14123193",
+        "merit_date": "02/02/2014",
+        "points": "37",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Desiree Sims",
+        "grad": "2015",
+        "degrees": "Honor",
+        "merit_number": "14010206",
+        "merit_date": "10/23/2011",
+        "points": "126",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Gregory Singleton",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14032227",
+        "merit_date": "02/19/2012",
+        "points": "34",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Krista Spencer",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058440",
+        "merit_date": "12/10/2012",
+        "points": "53",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "William Tackie",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14010187",
+        "merit_date": "12/11/2011",
+        "points": "64",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Jeffrey Teems",
+        "grad": "2015",
+        "degrees": "Merit",
+        "merit_number": "14018927",
+        "merit_date": "12/11/2011",
+        "points": "25",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Callie Wooldridge",
+        "grad": "2016",
+        "degrees": "Merit",
+        "merit_number": "14058444",
+        "merit_date": "12/10/2012",
+        "points": "37",
+        "school": "Barnwell HS"
+    },
+    {
+        "name": "Zadia Worthy",
+        "grad": "2016",
+        "degrees": "Honor",
+        "merit_number": "14058448",
+        "merit_date": "12/16/2012",
+        "points": "146",
+        "school": "Barnwell HS"
+    }
+]
